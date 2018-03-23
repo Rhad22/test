@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Darwin
+                    Darwin test
                 </div>
 
                 <div class="links">
